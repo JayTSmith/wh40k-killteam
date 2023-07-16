@@ -774,7 +774,7 @@ This operative cannot perform this action while within Engagement Range of an en
               <characteristics>
                 <characteristic name="A" typeId="5f37-25bb-661b-5c9c">4</characteristic>
                 <characteristic name="WS/BS" typeId="32b4-9a0e-e740-6031">4+</characteristic>
-                <characteristic name="D" typeId="337a-2e5b-e4e3-f489">4/4</characteristic>
+                <characteristic name="D" typeId="337a-2e5b-e4e3-f489">4/5</characteristic>
                 <characteristic name="SR" typeId="c9c0-f6c9-c787-e650">AP1</characteristic>
                 <characteristic name="!" typeId="c495-8d08-b6b8-b434">-</characteristic>
               </characteristics>
